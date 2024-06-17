@@ -1,0 +1,8 @@
+datasource:
+  dbName: testRepo
+  username: Ana123
+  password: 443344
+
+spring:
+  profiles:
+    active: inMemoryRepo

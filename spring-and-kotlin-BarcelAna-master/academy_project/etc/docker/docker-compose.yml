@@ -1,0 +1,25 @@
+version: "3"
+
+# docker run --rm --name courses-database -v courses-data:/var/lib/postgresql/data -p 5432:5432
+# -e POSTGRES_PASSWORD=admin -e POSTGRES_DB=courses-db -d postgres:13-alpine
+services:
+    app:
+        image: "academy/academy-better"
+        ports:
+            - "8080:8080"
+        environment:
+            - "SPRING_DATASOURCE_URL=jdbc:postgresql://courses-database:5432/academyDB"
+        depends_on:
+            - courses-database
+    courses-database:
+        image: "postgres:latest"
+        ports:
+            - "5432:5432"
+        volumes:
+            - "academyDB-data:/var/lib/postgresql/data"
+        environment:
+            - "POSTGRES_USER=admin"
+            - "POSTGRES_PASSWORD=bazepodataka"
+            - "POSTGRES_DB=academyDB"
+volumes:
+    academyDB-data:

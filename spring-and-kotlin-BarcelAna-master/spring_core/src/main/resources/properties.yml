@@ -1,0 +1,8 @@
+datasource:
+  dbName: repository
+  username: BarcelAna
+  password: 12345
+
+spring:
+  profiles:
+    active: inMemoryRepo

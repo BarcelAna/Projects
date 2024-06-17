@@ -1,0 +1,1 @@
+create table car_models(id uuid primary key, manufacturer_name text not null, model_name text not null, unique(manufacturer_name, model_name))
