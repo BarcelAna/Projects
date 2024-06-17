@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: hr.fer.oprpp1.custom.collectionsT.LinkedListIndexedCollectionMethodsTests
+-------------------------------------------------------------------------------
+Tests run: 20, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.015 s - in hr.fer.oprpp1.custom.collectionsT.LinkedListIndexedCollectionMethodsTests

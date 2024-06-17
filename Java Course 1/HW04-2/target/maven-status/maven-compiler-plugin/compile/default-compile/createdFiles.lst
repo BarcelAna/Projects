@@ -1,0 +1,16 @@
+hr\fer\oprpp1\hw04\db\RecordFormatter.class
+hr\fer\oprpp1\hw04\db\QueryToken.class
+hr\fer\oprpp1\hw04\db\QueryLexer.class
+hr\fer\oprpp1\hw04\db\QueryParser.class
+hr\fer\oprpp1\hw04\db\ComparisonOperators.class
+hr\fer\oprpp1\hw04\db\QueryFilter.class
+hr\fer\oprpp1\hw04\db\DataBaseException.class
+hr\fer\oprpp1\hw04\db\IFieldValueGetter.class
+hr\fer\oprpp1\hw04\db\StudentDatabase.class
+hr\fer\oprpp1\hw04\db\ConditionalExpression.class
+hr\fer\oprpp1\hw04\db\IComparisonOperator.class
+hr\fer\oprpp1\hw04\db\QueryTokenType.class
+hr\fer\oprpp1\hw04\db\IFilter.class
+hr\fer\oprpp1\hw04\db\StudentRecord.class
+hr\fer\oprpp1\hw04\db\FieldValueGetters.class
+hr\fer\oprpp1\hw04\db\StudentDB.class

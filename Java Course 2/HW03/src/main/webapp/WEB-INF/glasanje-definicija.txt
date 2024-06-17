@@ -1,0 +1,7 @@
+1,Arctic Monkeys,https://www.youtube.com/watch?v=VQH8ZTgna3Q
+2,Strokes,https://www.youtube.com/watch?v=b8-tXG8KrWs
+3,Red Hot Chilli Peppers,https://www.youtube.com/watch?v=GLvohMXgcBo
+4,Queen,https://www.youtube.com/watch?v=fJ9rUzIMcZQ
+5,Guns N' Roses,https://www.youtube.com/watch?v=1w7OgIMMRc4
+6,Metallica,https://www.youtube.com/watch?v=9HZ_tx8aWuA
+7,Pink Floyd,https://www.youtube.com/watch?v=x-xTttimcNk

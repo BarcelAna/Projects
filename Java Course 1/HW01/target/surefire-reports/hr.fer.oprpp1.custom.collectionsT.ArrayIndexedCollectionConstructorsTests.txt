@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: hr.fer.oprpp1.custom.collectionsT.ArrayIndexedCollectionConstructorsTests
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.037 s - in hr.fer.oprpp1.custom.collectionsT.ArrayIndexedCollectionConstructorsTests

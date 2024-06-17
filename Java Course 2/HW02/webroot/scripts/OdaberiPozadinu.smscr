@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Odabir pozadine</title>
+    </head>
+    <body>
+        <h1>Odaberi pozadinsku sliku</h1>
+        <form method="GET" action="/postaviPozadinu">
+        		<select name="url">
+        			<option value="Barca.jpg">Barcelona grb</OPTION>
+        			<option value="Gitara.png">Moja gitara</OPTION>
+        		</select>
+        		<br>
+        		<br>
+        		<input type="submit" value="Submit">
+        </form>
+    </body>
+</html>

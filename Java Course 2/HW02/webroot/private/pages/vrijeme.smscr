@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title>Trenutno vrijeme</title>
+        <style>
+            body {
+                background-image: url({$= "bgUrl" "/images/Barca.jpg" @tparamGet $})
+            }
+        </style>
+    </head>
+    <body>
+        <p>Trenutno vrijeme je: {$= "currentTime" "" @tparamGet $}
+        <a href="/scripts/OdaberiPozadinu.smscr">Choose background</a>
+    </body>
+</html>
